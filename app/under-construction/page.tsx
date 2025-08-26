@@ -1,4 +1,4 @@
-export default function Home() {
+export default function UnderConstruction() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-4">
       <div className="text-center">
