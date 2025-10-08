@@ -2,8 +2,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50 px-4">
       <div className="text-center">
-        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-gray-900">Under Construction <span role="img" aria-label="construction">🚧</span></h1>
-        <p className="text-lg md:text-xl text-gray-600 mb-8">I’m working on something amazing! Stay tuned.</p>
+        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-gray-900">Lehan Nawaratne</h1>
         <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
           <a
             href="https://github.com/LehanNawaratne"
